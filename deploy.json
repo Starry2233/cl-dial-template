@@ -1,0 +1,6 @@
+{
+  "device_cl_path": "/sdcard/xtc/dial/example_dial/example_dial.cl",
+  "device_config_path": "/sdcard/xtc/dial/example_dial/config.json",
+  "source_name": "example_dial",
+  "clockType": 1
+}

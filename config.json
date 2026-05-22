@@ -1,0 +1,9 @@
+{
+  "sourceName": "example_dial",
+  "dialName": "Example Dial",
+  "clockType": 1,
+  "useState": 1,
+  "dialDir": "/sdcard/xtc/dial/example_dial/",
+  "versionCode": 1,
+  "keyVersion": 1
+}
